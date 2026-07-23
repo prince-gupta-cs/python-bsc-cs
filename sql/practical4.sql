@@ -1,6 +1,6 @@
 - Practical 4: DDL and DML Commands
--- Name: Prince Gupta
--- Roll No: [tera Roll No: 25]
+-- Name: Prince H Gupta
+-- Roll No: [Roll No: 25]
 
 -- Table banana - DDL Command
 CREATE TABLE STUDENT (
