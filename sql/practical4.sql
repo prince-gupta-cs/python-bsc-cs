@@ -1,4 +1,4 @@
-- Practical 4: DDL and DML Commands
+-- Practical 4: DDL and DML Commands
 -- Name: Prince H Gupta
 -- Roll No: [Roll No: 25]
 
